@@ -1,0 +1,32 @@
+aid: gofile
+name: GoFile
+description: "Unlimited size file uploads for free"
+url: https://gofile.io/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: GoFile
+    description: "Unlimited size file uploads for free"
+    humanURL: https://gofile.io/api
+    baseURL: https://gofile.io/api
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://gofile.io/api
+common:
+  - type: Website
+    url: https://gofile.io/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
