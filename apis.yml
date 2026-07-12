@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://gofile.io/api
 common:
+  - type: DomainSecurity
+    url: security/gofile-domain-security.yml
   - type: Website
     url: https://gofile.io/api
   - type: PublicAPIsListing
